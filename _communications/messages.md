@@ -2,11 +2,6 @@
 title:  "Messages de la semaine"
 layout: "messages"
 
-activities: 
-
-    - date: 16 décembre
-      title: activité de Noël en soirée
-
 ---
 ## Soirée du 8 décembre
 
